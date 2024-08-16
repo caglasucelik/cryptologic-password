@@ -1,0 +1,15 @@
+{
+  "name": "password",
+  "version": "1.0.0",
+  "description": "This project is an interactive password generator built with HTML, CSS, and JavaScript. It allows users to create a hashed password by combining a user-provided password and a security code",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
